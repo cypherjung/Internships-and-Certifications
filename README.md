@@ -25,12 +25,12 @@ The repository comprises my learning credentials and certificates.
   3-[AI Applications in People Management](https://www.coursera.org/account/accomplishments/certificate/Q9A264JD45AW) -University of Pennsylvania/Coursera
   4-[AI Strategy and Governance](https://www.coursera.org/account/accomplishments/certificate/TFJBM8KQGDRG) -University of Pennsylvania/Coursera
 
--[Foundations of Management Specialization] -IESE BusinessSchool/Coursera
- #Courses completed
- 1-[Accounting: Principles of Financial Accounting](https://www.coursera.org/account/accomplishments/verify/BN7NUSDMJ7Q8) -IESE BusinessSchool/Coursera
- 2-[Finance for Managers](https://www.coursera.org/account/accomplishments/verify/8EFG3Z9RH9AN) -IESE BusinessSchool/Coursera
- 3-[Marketing: Customer Needs and Wants](https://www.coursera.org/account/accomplishments/verify/V5U8DN64HP3H) -IESE BusinessSchool/Coursera
- 4-[Organizational Behavior: How to Manage People](https://www.coursera.org/account/accomplishments/verify/435ZQRDRCJYJ) -IESE BusinessSchool/Coursera
+- [Foundations of Management Specialization] -IESE BusinessSchool/Coursera
+  #Courses completed
+  1-[Accounting: Principles of Financial Accounting](https://www.coursera.org/account/accomplishments/verify/BN7NUSDMJ7Q8) -IESE BusinessSchool/Coursera
+  2-[Finance for Managers](https://www.coursera.org/account/accomplishments/verify/8EFG3Z9RH9AN) -IESE BusinessSchool/Coursera
+  3-[Marketing: Customer Needs and Wants](https://www.coursera.org/account/accomplishments/verify/V5U8DN64HP3H) -IESE BusinessSchool/Coursera
+  4-[Organizational Behavior: How to Manage People](https://www.coursera.org/account/accomplishments/verify/435ZQRDRCJYJ) -IESE BusinessSchool/Coursera
  
 
 - [Data Science with Python](Certificate Code: 4350985) -Skillup/Simplilearn
