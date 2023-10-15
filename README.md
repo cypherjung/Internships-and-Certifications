@@ -1,6 +1,6 @@
-# Internships-and-Certifications
+# Courses, Internships-and-Certifications
 The repository comprises my learning credentials and certificates.
-## INTERNSHIPS
+## Courses and Certification
 - [GOOGLE CYBERSECURITY](https://www.coursera.org/account/accomplishments/professional-cert/8DWYVDUUZ389) -Google/Coursera
   #Courses completed
   1-[Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/RX39MLANMT6Q) -Google/Coursera
